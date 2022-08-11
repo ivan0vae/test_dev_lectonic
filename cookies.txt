@@ -1,0 +1,1 @@
+{"domain": "dev.lectonic.ru", "httpOnly": true, "name": "auth_token", "path": "/", "sameSite": "None", "secure": true, "value": "cab7563127d11d76fed2061e3fc9ee81af2a221d"}
